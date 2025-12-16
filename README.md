@@ -58,3 +58,4 @@ This script generates a specialized PQ-encoded color chart for checking HDR disp
 - ✅ **A Series of Colorful Patches in Visible Spectrum Order**: The final row contains real-life color patches. This is used to verify the wide color gamut display capability of the output device.
 
 ![Alt text](https://github.com/KritsadaKaewmani/ColorChart_UHD_HDR/blob/main/pq_patches_UHD_1000nits_11patches.png)
+# ColorChart_UHD_HDR
