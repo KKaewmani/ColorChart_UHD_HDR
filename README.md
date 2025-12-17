@@ -29,11 +29,11 @@ ICC_PROFILE_REC2020_PQ = "/Library/Application Support/Adobe/Color/Profiles/HDR_
 
 </sub>
 
-![Alt text](https://github.com/KritsadaKaewmani/ColorChart_UHD_HDR/blob/main/macbeth_colorchecker_SDR_W100_sRGB.png)
+![Alt text](./macbeth_colorchecker_SDR_W100_sRGB.png)
 
 💾 **2. Macbeth_HelenAndJohn_UntoneMapped.py**
 
-![Alt text](https://github.com/KritsadaKaewmani/ColorChart_UHD_HDR/blob/main/py/macbeth_HelenAndJohn_AlexaLogC4_DisplayP3.png)
+![Alt text](./py/macbeth_HelenAndJohn_AlexaLogC4_DisplayP3.png)
 
 <https://www.arri.com/en/learn-help/learn-help-camera-system/camera-sample-footage-reference-image#tab-294302>
 
@@ -43,7 +43,7 @@ The script also creates an untonemapped Rec.2020 + PQ + W203 chart in TIF and PN
 
 Color Pipeline : ARRI Alexa35 MXF (Helen and John) -> ACES 2.0 AlexLogC4 IDT -> ACES 2065-1 -> White 203 -> Rec.2020PQ
 
-![Alt text](https://github.com/KritsadaKaewmani/ColorChart_UHD_HDR/blob/main/macbeth_HelenAndJohn_UntoneMapped_Rec2020_PQ_W203.png)
+![Alt text](./macbeth_HelenAndJohn_UntoneMapped_Rec2020_PQ_W203.png)
 
 💾 **3. pq_patches.py**
 
@@ -57,5 +57,5 @@ This script generates a specialized PQ-encoded color chart for checking HDR disp
 
 - ✅ **A Series of Colorful Patches in Visible Spectrum Order**: The final row contains real-life color patches. This is used to verify the wide color gamut display capability of the output device.
 
-![Alt text](https://github.com/KritsadaKaewmani/ColorChart_UHD_HDR/blob/main/pq_patches_UHD_1000nits_11patches.png)
+![Alt text](./pq_patches_UHD_1000nits_11patches.png)
 # ColorChart_UHD_HDR
